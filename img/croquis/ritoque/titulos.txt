@@ -1,0 +1,29 @@
+Ritoque-1
+	Ritoque/Cuidad Abierta/Pozo
+
+Ritoque-2
+	Ritoque/Cuidad Abierta/Pozo y bordes del cementerio
+
+Ritoque-3
+	Ritoque/Cuidad Abierta/Pozo
+
+Ritoque-4
+	Ritoque/Cuidad Abierta/Cementerio
+
+Ritoque-5
+	Ritoque/Cuidad Abierta/Cementerio
+
+Ritoque-6
+	Ritoque/Cuidad Abierta/Cementerio
+
+Ritoque-7
+	Ritoque/Cuidad Abierta/Escultura en cementerio
+
+Ritoque-8
+	Ritoque/Cuidad Abierta/Hospedería del Megaterio
+
+Ritoque-9
+	Ritoque/Cuidad Abierta/La Vestal del Jardín
+
+Ritoque-10
+	Ritoque/Cuidad Abierta/La Vestal del Jardín

@@ -1,0 +1,8 @@
+picasso-1
+	Picasso/La durmiente
+
+picasso-2
+	Picasso/Mujer sentada y durmiente
+
+picasso-3
+	Picasso/La artísta con su hijo (Francoise y su hijo)

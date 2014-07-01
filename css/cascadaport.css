@@ -1,10 +1,17 @@
 /*--contenedores--*/
+*{
+	webkit-box-sizing:none !important;
+}
 
 body{
 	background-image: url(../img/lined_paper.png);
 	background-repeat: repeat;
+	margin: 0px;
 }
 
+.container{
+	margin-top:0px;
+}
 .contenedor1024{
 	max-width: 1024px;
 	margin: 0 auto;
@@ -55,15 +62,16 @@ body{
 
 .supermenu{
 	display: inline-block;
+	margin: 0 auto;
 }
 
 
 .menu, a p{ /*--primer menu--*/
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 16px;
-	font-variant: 700;
+	font-family: 'Lato', helvetica, arial, sans-serif !important;
+	text-transform: uppercase !important;
+	text-align: center !important;
+	font-size: 16px !important;
+	font-variant: 700 !important;
 }
 
 .span_2{
@@ -97,6 +105,7 @@ display: inline-block;
 .boximg-estudios{
 	width:617px;
 	height:320px;
+	margin-top: 20px;
 	background-color: black;
 	display: inline-block;
 	float: left;
@@ -123,59 +132,75 @@ display: inline-block;
 	-moz-filter:grayscale(0);
 	-ms-filter:grayscale(0);
 	-o-filter:grayscale(0);
+	transition: 1s;
 }
 
-.boximg-croquis img:hover{
-	-webkit-filter:brightness(0.3);
-	-moz-filter:brightness(0.3);
-	-ms-filter:brightness(0.3);
-	-o-filter:brightness(0.3);
+
+.boximg-croquis:hover{
+	background-color: #44014D;
+	transition: 0.5s;
 }
+
+
 
 .cont-img-tex-croquis:hover{
 	background-color: rgba(100,100,100,0.2);
+	transition: 1s;
 }
 
 .cont-img-tex-contenido:hover{
 	background-color: rgba(100,100,100,0.2);
+	transition: 0.5s;
 }
 
-.cont-img-caligrafia2:hover{
+.cont-img-caligrafia2:hover{	
+	background-color: #44014D;
+	transition: 0.5s;
 	
-	-webkit-filter:brightness(0.3);
-	-moz-filter:brightness(0.3);
-	-ms-filter:brightness(0.3);
-	-o-filter:brightness(0.3);
 }
 
 .cont-img-caligrafia:hover{
-
-	-webkit-filter:brightness(0.3);
-	-moz-filter:brightness(0.3);
-	-ms-filter:brightness(0.3);
-	-o-filter:brightness(0.3);
+	background-color: #44014D;
+	transition: 1s;	
 }
 
 .cont-img-tipografia:hover{
-	-webkit-filter:brightness(0.3);
-	-moz-filter:brightness(0.3);
-	-ms-filter:brightness(0.3);
-	-o-filter:brightness(0.3);
+	background-color: #44014D;
+	transition: 1s;
+	
 }
 
 .cont-img-tipografia2:hover{
-	-webkit-filter:brightness(0.3);
-	-moz-filter:brightness(0.3);
-	-ms-filter:brightness(0.3);
-	-o-filter:brightness(0.3);
+	background-color: #44014D;
+	transition: 1s;
+	
 }
 
+.cont-img-galeria:hover{
+	background-color: #44014D;
+	transition: 1s;
+}
 
+.cont-img-galeria2:hover{
+	background-color: #44014D;
+	transition: 1s;
+}
+
+.boximg-contenido:hover{
+	background-color: #44014D;
+	transition: 1s;
+}
+
+.menu .elementomenu a p:hover{
+	color:#C41856;
+	text-decoration: none;
+}
 
 /*------------------------- FIN DE HOVERS--------------------------*/
 
 img{
-	width: 100%;
+	width: 100% !important;
+	height: auto !important;
 }
 
 .boxtexto-estudios{
@@ -184,6 +209,7 @@ img{
 	display: inline-block;
 	float: right;
 	margin-top: 70px;
+	margin-left: 10px;
 }
 
 /*--contenedores de croquis--*/
@@ -199,16 +225,16 @@ img{
 }
 
 .cont-img-tex-croquis{
-	padding-left: 8px;
-	padding-right: 8px;
-	padding-top: 8px;
-	margin: 0 auto;
-	width: 298px;
-	display: inline-block;
+	padding-left: 8px !important;
+	padding-right: 8px !important;
+	padding-top: 8px !important;
+	margin: 0 auto !important;
+	width: 298px !important;
+	display: inline-block !important;
 	background-color: rgba(100,100,100,0);
-	float: left;
-	margin-right: 6px;
-	margin-bottom: 20px;
+	float: left !important;
+	margin-right: 6px !important;
+	margin-bottom: 20px !important;
 }
 
 .cont-img-tex-croquis-centro{
@@ -223,9 +249,8 @@ img{
 	float: left;
 }
 .boximg-croquis{
-	width:298px;
-	height:298px;
-	background-color: black;
+	padding: 8px;
+	background-color: rgba(100,100,100,0.2);
 	display: inline-block;
 	float: right;
 	overflow: hidden;
@@ -287,13 +312,14 @@ img{
 	margin-left: 50px;
 }
 .boxtexto-caligrafia{
-	width: 300px;
+	width: 600px;
+	padding-top: 20px;
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 12px;
 	margin-bottom: 20px;
-	display: inline;
-	margin: 0 auto;
+	display: inline-block;
+
 }
 
 /*--TIPOGRAFIA--*/
@@ -335,13 +361,13 @@ img{
 	margin-left: 50px;
 }
 .boxtexto-tipografia{
-	width: 300px;
+	width: 600px;
+	padding-top: 20px;
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 12px;
 	margin-bottom: 20px;
-	display: inline;
-	margin: 0 auto;
+	display: inline-block;
 }
 
 
@@ -426,24 +452,22 @@ footer{
 .iconosfooter{
 	width: 36px;
 	height: 36px;
-	border-radius: 20px;
+	border-radius: 100%;
 	margin-left: 44px;
 	margin-bottom: 18px;
-	background-color: black;
-	background-image: url(../img/);
 	float: left;
 	display: inline-block;
+	overflow: hidden;
 }
 
 .iconosfooter2{
 	width: 36px;
 	height: 36px;
-	border-radius: 20px;
+	border-radius: 100%;
 	margin-bottom: 18px;
-	background-color: black;
-	background-image: url(../img/);
 	float: left;
 	display: inline-block;
+	overflow: hidden;
 }
 
 .texto-footer{
@@ -456,7 +480,7 @@ footer{
 	font-family: 'Lato', helvetica, arial, sans-serif;
 	font-size: 16px;
 	font-variant: 400;
-	text-align: center;
+	text-align: lef;
 
 }
 }
@@ -478,12 +502,12 @@ div a{
 }
 
 div a:hover{
-	color: #cc0000;
+	color: #570273 !important;
 }
 
 a{
-	text-decoration: none;
-	color: #000000;
+	text-decoration: none !important;
+	color: #000000 !important;
 }
 
 /*--div a:visited {
@@ -498,44 +522,54 @@ a{
 /*--los weight de lato son 300 (light) 400, 400italic, bold--*/
 
 h1{
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 44px;
-	font-weight: 300;
-	text-align: center;
+	font-family: 'Lato', helvetica, arial, sans-serif  !important;
+	font-size: 44px !important;
+	font-weight: 300 !important;
+	letter-spacing: 0.06em !important;
+	text-align: center !important;
+	margin-bottom: 40px !important;
+	color: #C41856 !important;
 }
 
 h2{
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 24px;
-	text-transform: uppercase;
+	font-family: 'Lato', helvetica, arial, sans-serif  !important;
+	font-size: 24px !important;
+	text-transform: uppercase !important;
 	line-height: 30px;
-	font-weight: 400;
-	text-align: center;
+	color: #630170 !important;
+	font-weight: 400 !important;
+	text-align: center !important;
 }
 
 h3{
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 24px;
-	line-height: 30px;
-	font-weight: 400;
-	text-align: center;
+	font-family: 'Lato', helvetica, arial, sans-serif  !important;
+	font-size: 24px  !important;
+	line-height: 30px  !important;
+	font-weight: 400  !important;
+	text-align: center  !important;
 }
 
 h4{
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 16px;
-	line-height: 26px;
-	font-weight: 400;
-	text-align: center;
+	font-family: 'Lato', helvetica, arial, sans-serif  !important;
+	font-size: 16px  !important;
+	line-height: 26px  !important;
+	font-weight: 400  !important;
+	text-align: center  !important;
 }
 
 p{
-	font-family: 'Lato', helvetica, arial, sans-serif;
-	font-size: 16px;
-	line-height: 26px;
-	font-weight: 300;
-	text-align: center;
-	padding-top: 20px;
+	font-family: 'Lato', helvetica, arial, sans-serif  !important;
+	font-size: 16px  !important;
+	line-height: 26px  !important;
+	font-weight: 400  !important;
+	text-align: center  !important;
+	padding-top: 20px  !important;
+}
+
+.texto-footer p{
+	font-weight: 400  !important;
+	letter-spacing: 0.05em;
+	color: #C41856;	
 }
 
 /*-------------------------GALERIA--------------------------*/
@@ -564,7 +598,7 @@ p{
 	width: 218px;
 	height: 218px;
 	display: inline-block;
-	background-color: black;
+	background-color: rgba(100,100,100,0.2);
 	float: left;
 	margin-bottom: 6px;
 }
@@ -574,7 +608,7 @@ p{
 	width: 218px;
 	height: 218px;
 	display: inline-block;
-	background-color: black;
+	background-color:rgba(100,100,100,0.2);
 	float: left;
 	margin-bottom: 6px;
 }
@@ -610,9 +644,8 @@ p{
 }
 
 .boximg-contenido{
-	width:298px;
-	height:298px;
-	background-color: black;
+	padding: 8px;
+	background-color: rgba(100,100,100,0.2);
 	display: inline-block;
 	float: right;
 }
@@ -622,10 +655,11 @@ p{
 .box-img-acercademi{
 	height: 298px;
 	width: 298px;
-	border-radius: 200px;
+	border-radius: 100%;
 	background-color: black;
 	position: relative;
 	display: inline-block;
+	overflow: hidden;
 }
 
 .cont-acercademi{
@@ -698,4 +732,29 @@ textarea {
     border:none;
     margin-top:20px;
     
+}
+
+/*-------------------arreglos galeria---------------------*/
+
+.blueimp-gallery .modal-body{
+	padding: 0px !important;
+}
+
+.blueimp-gallery .modal-body img{
+	position: relative !important;
+	width: 80% !important;
+	height: auto !important;
+
+}
+
+
+/*------------------arreglos bootdtrap-------------------*/
+
+.modal-caption{
+	padding: 20px;
+}
+
+.modal-caption p{
+	text-align: left !important;
+	font-weight: 400 !important;
 }

@@ -1,0 +1,42 @@
+	Bembo
+
+Bembo es el nombre dado a una serifa o tipo de letra revivido en el siglo XX creado por Francesco Griffo alrededor de 1495.
+
+
+	Palatino
+
+Palatino es un tipo de letra creado por el diseñador Hermann Zapf en 1948. Llamada así en honor del maestro escritor del siglo XVI Giambattista Palatino.
+
+
+	caslon
+
+Caslon se refiere a una extensa familia de tipos de letra que se originan en los tipos dibujados y fundidos por el tipógrafo inglés William Caslon. La familia tipográfica Caslon salió a la luz por primera vez en 1734 en un catálogo publicado por Caslon; esta tipografía es considerada como la primera tipografía inglesa, pues en ese tiempo, los impresores ingleses solían importar todos los tipos de Holanda
+
+
+	ehrhardt
+
+Ehrhardt es un fuente sefif estilo antiguo que se cree que ha sido diseñado por Miklós (Nicolás) Tótfalusi Kis 
+
+	bell
+
+Tipografía diseñada por Richard Austin en 1788 cuando trabajaba para la John Bell’s British Type Foundry. 
+
+	bodoni
+
+Este tipo de letra fue diseñado por el tipógrafo italiano Giambattista Bodoni, inspirada en el trabajo de John Baskerville, Pierre Simon Fournier and Firmin Didot. Las letras son de tipo serif (muy fino) y presentan un grosor desigual en sus trazos. Es una de las tipografías más utilizadas en la prensa actual.
+	
+	franklin
+
+Es una tipografía sans serif creada por Morris Fuller Benton en 1992. Muy utilizada en publicidad y titulares de prensa. Es una familia muy amplia y con muchas variantes que te permite utilizarla en multitud de proyectos de publicidad, prensa, etc.
+
+	universe
+
+Creada por Adrian Frutiger en 1957, es uno de los mayores éxitos tipográficos de la segunda mitad del siglo XX. Es un tipo de letra de los denominados “grotescos”, que se ha convertido en una de las tipografías sans serif más usadas por su uso casi ilimitado.
+
+	gill sans
+
+Creada por el tipógrafo Eric Gill y publicada por la fundición Monotype en el primer tercio del siglo XX. Es una tipografía muy versátil que fue creada por Monotype para responder a la popular Futura, propiedad de la casa tipográfica Bauer. Uno de los usos más importantes y reconocidos de esta tipografía es el del Ferrocarril de Londres.
+
+	avant garde
+
+Es una tipografía geométrica sans serif diseñada por Herb Lubalin. El autor la diseñó para la revista Avant Garde Magazine en 1967 y fue posteriormente rediseñada en 1970 junto con Tom Carnase, añadiéndole los caracteres de caja baja. Fue una de las tipografías más utilizadas en los años 70.

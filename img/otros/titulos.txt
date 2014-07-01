@@ -1,0 +1,12 @@
+cezanne-1
+	Cezanne/El negro Escipión, 1867
+
+cezanne-2
+	Cezanne/El florero azul
+
+renoir
+	Renoir/La Grenouillère, 1869
+
+sisley
+	Sisley/ El puente de Hamptom Court, 1876
+
