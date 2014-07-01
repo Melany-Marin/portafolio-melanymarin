@@ -1,0 +1,76 @@
+valparaiso-1
+	Valparaíso/Villa Alemana/Plaza Belén
+
+
+valparaiso-2
+	Valparaíso/Villa Alemana/Observación de gesto en Feria
+
+valparaiso-3
+	Valparaíso/Villa Alemana/Observación de gesto en Feria
+
+valparaiso-4
+	Valparaíso/Villa Alemana/Observación de gesto en Feria
+
+valparaiso-5
+	Valparaíso/Villa Alemana/Observación de gestos
+
+valparaiso-6
+	Valparaíso/Villa Alemana/Observación de gestos
+
+valparaiso-7
+	Valparaíso/Villa Alemana/ Observación de gesto en Feria
+
+valparaiso-8
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escaleras 
+
+valparaiso-9
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escalerasto
+
+valparaiso-10
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escaleras
+
+valparaiso-11
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escaleras
+
+valparaiso-12
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escaleras
+
+valparaiso-13
+	Valparaíso/Cerros de Valparaíso/Contraste Luminoso en escaleras
+
+
+valparaiso-14
+	Valparaíso/Viña del Mar/Escultura "La Defensa" de Rodin
+
+valparaiso-15
+	Valparaíso/Viña del Mar/Escultura "La Defensa" de Rodin
+
+valparaiso-16
+	Valparaíso/Viña del Mar/Escultura "La Defensa" de Rodin
+
+valparaiso-17
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-18
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-19
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-20
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-21
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-22
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-23
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-24
+	Valparaíso/Cerros de Valparaíso/Observación del borde costero desde el interior
+
+valparaiso-25
+	Valparaíso/Villa Alemana/Observación de gesto en Feria

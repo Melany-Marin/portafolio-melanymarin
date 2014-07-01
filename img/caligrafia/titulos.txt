@@ -1,0 +1,83 @@
+Romana
+	cuadrada
+
+Fragmento de Virgilio "Codex Agusteux" manuscrito de lujo
+Tambien llamada escritura Quadrata, es la adaptación mas fiel de la escritura monumental romana, conserva la escencia de sus proporciones de ancho (según su estructura geométrica). Es utilizada en textos de lujo u obras veneradas, como obras de Virgilio y la Biblia, pero existen muy pocos ejemplares debido a lo laborioso que era ejecutarla. 
+
+	rústica
+
+Este tipo de escritura surge en el siglo I d.C. Posee un trazo más rapido, se le da distintas variaciones según el escriba. Las letras se vuelven angostas, siguen siendo mayúsculas, solo unas pocas ascienden o descienden del alto de la x. 
+Proviene de una simplificación de la escritura cuadrada, en donde se angosta el ancho, se aplican serif curvos mas rápidos de realizar, los trazos curvos poseen un ángulo con la inclinación diagonal de la mano, mientras que se mantiene en alto contraste entre trazos finos y gruesos.
+
+	uncial
+
+En el siglo III d.C aparece una forma distinta de escritura a la Rústica y la Cuadrada; la escritura Uncial. Se cree que su origen viene de los escribas africanos, se caracteriza por ser más redondeada. En el siglo IV d.C ya era de uso común, siendo muy predominante en el siglo V d.C, se utilizó en muchos manuscritos cristianos hasta el siglo XVII, el el siglo IX comienza a utilizarce como encabezado de capítulos.
+La escritura uncial deriva de la escritura cuadrada en su ancho de caja, con un pulso e inclinación similares a la rústica, se eliminan los serif, por lo que es más rapida de ejecutar y posee un blanco muy amplio, por lo que resulta muy legible y espaciosa.
+Hasta el siglo VII fue muy utilizada en escritura de textos, mas causa ciertos inconvenientes por ser demasiado ancha, por lo que resulta una menor cantidad de texto por página, por lo que en el siglo IX se usaba primordialmente para titular.
+	
+	semiuncial
+
+"Fragmento de San Hilario de Poitiers (de Trinitate: Liber II ad constantium)"
+La característica principal de las semiunciales es que utiliza la mezcla de minúsculas y mayúsculas, conserva ciertas letras de las unciales y aparecen las minúsculas. Aparece en ciertos textos del siglo V al IX d.C.
+Algunos la denominan como "minúscula antigua" o "escritura mixta". El trazo se ejecuta de una manera más veloz, resaltan los trazos ascendentes y descendentes de letras como la "l", "p" y "b". 
+las formas que principalmente cambiaron desde la uncial a la semiuncial son las letras "a" con dos variables en la semiuncial, "b" con mayor trazo ascendente, "d" que pose dos variantes, "g","e" y la "r".
+
+
+
+
+manos nacionales
+
+	germanica
+
+Siglo VII-IX d.C, Territorio Franco (actual Alemania y norte de Francia)
+Se considera a la escritura Germanica la antecesora directa de la caligrafía Carolingia. Recibió influencias anglosajonas y merovingias, se caracteriza por su estilo claro, separación marcada entre palabras y el uso de ligaduras, al unir trazados entre letras de una misma palabra, no es rígida ya que permite variables de una misma letra. 
+Posee una proporción fija para el alto de la x, mas para los trazoz ascendentes y descendentes no tienen una proporción definida.
+
+	merovingia
+
+Siglo VI-VII d.C, Dinastía Merovingia (Actual Francia, parte de alemania y Suiza)
+Su uso fue muy breve (aproximadamente 2 siglos) deriva de la minúscula cursiva romana. En un comienzo solo era utilizada en la cancilleria para diplomas y textos honorables, posteriormente fue utilizada en libros. Tenia muchas variables según la región donde se escribía: Borgoña, San Gallo, Madrano, Laon, Corbie y Lexuevil, esta última con mayor tendencia a la caligrafía.
+Se caracteriza por: Pérdida de proporción, gran irregularidad, mucho uso de ligaduras, trazos ascendentes y descendentes extremadamente largos, dificultad de lectura, las frases comienzan con letras capitales o unciales y se separan por puntos.
+
+	lombarda
+
+Siglo VI-XII d.C, Norte de Italia
+Las invasiones bárvaras influyeron en Italia en un principio (siglos VI-VII) en la escritura, no se vieron muchos cambios en la escritura romana hasta el siglo VIII donde se ven grandes cambios dependiendo las regiones de Italia.
+La escritura Lombarda Septentrional (norte), se ve influenciada por la escritura Merovingia. 
+En el centro de Italia se siguió usando escritura Capital, Uncial y cursivas romanas.
+Dentro de todas las variables de Lombarda la Beneventana (sur) es la más caligráfica. Tiene razgos que provienen de la escritura uncial y semiuncial.
+
+	visigoda
+
+Siglo VIII-XII d.C, Península Iberica (Actual España y zonas del sur de Francia)
+Durante en imperio romano se usaba el estilo de escritura acostumbradas (cursiva, uncial, cuadrada, semiuncial), pero con la invasión de los bárbaros, como los Suevos, Vándalos, Alanos y Visigodos la cultura decayó, mas no la escritura.
+Se dio un florecimiento cultural en el siglo VII, como un diccionario creado por el obispo de Sevilla, San Isidro (560-636), en En 1080 fue mandato usar solo la Carolingia, mas siguió siendo usada en conjunto hasta finales del siglo XII.
+Tiene diversas variables según el lugar donde se usaba, se caracteriza por su grán legibilidad, utiliza espacio entre palabras y uniones sutiles entre letras de una misma palabra, usa puntuación para separación de frases.
+
+
+	insular
+
+Siglo VI-XI d.C, Irlanda e Inglaterra
+Posee características diferentes a las escrituras del continente europeo, ya que esta se basa en la escritura semiuncial, no en la cursiva romana; además, los irlandeses no recibieron la influencia del latín, sino que adaptaron la semiuncial para su uso. Recibieron influencias Celtas que se pueden ver en la forma de decoración de las mayúsculas.
+es una escritura que a diferencia de la semiuncial, se usa como minúscula. Los trazos ascendestes y descendentes son más pequeños que el alto de la x, pero son de alturas establecidas.
+
+Carolingia
+
+Siglo VIII,Imperio Carolingio
+El éxito de la carolingia se debe a la claridad y legibilidad para la difusión de textos en el imerio Carolingio, la ley regia solo en las minúsculas y daba libertad en la decoración mayúscula.
+El origen de esta caligrafía se remonta al siglo VIII con el renacimiento del imperio Carolingio, que buscaba recuperar lo perdido tras la caida del imperio romano.
+Debido a la gran variedad de escritura de las diferentes naciones, Carlo Magno convoca una convención en donde Alain de York es el encargado de construir una caligrafía legible y estandar para todas las naciones del imperio.
+
+Difusión
+Desde su origen en el siglo VIII su uso previve hasta el siglo XII, en donde se convirtió en la escritura universal de Europa desplazando a las nacionales. 
+En el siglo IX su uso es generalizado en territorios Francos, Italia, Alemania y Suiza. En el siglo X se difunde en Cataluña, en el siglo XI en Inglaterra y en el el siglo XII en la península Iberica.
+pontificial.
+
+Pontificial
+
+Se origina en el Vaticano; el Papa mandaba a utilizar este tipo de caligrafía debido a que su legibilidad era exclusiva para quienes se les enseño previamente a leerla.
+
+gótica
+
+La escritura gótica deriva directamente de la Carolingia, en modo alguno ha de considerarse en oposición a esta, sino que partió de ella, agudizando la tendencia que dejo la carolingia como la acentuación de los àngulos y engrosamiento del trazo, que provoca una letra estrecha y líneas gruesas.
+Los primeros ejemplos de esta escritura se encuentran en manuscritos del siglo XII producidos en Francia. La gótica fue usada en el mundo latino hasta el siglo XV, Y SIGUIÓ VIGENTE EN aLEMANIA HASTA EL SIGLO xvi
