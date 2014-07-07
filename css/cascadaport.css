@@ -53,7 +53,7 @@ body{
 }
 
 .elementomenu{
-	width: 170px;
+	width: 192px;
 	height: 51px;
 	float: left;
 	margin: 0 auto;
@@ -195,6 +195,17 @@ display: inline-block;
 	color:#C41856;
 	text-decoration: none;
 }
+
+.iconosfooter a img:hover{
+	background-color: #C41856;
+	transition: 0.4s;
+}
+
+.iconosfooter2 a img:hover{
+	background-color: #C41856;
+	transition: 0.4s;
+}
+
 
 /*------------------------- FIN DE HOVERS--------------------------*/
 
@@ -464,11 +475,13 @@ footer{
 	width: 36px;
 	height: 36px;
 	border-radius: 100%;
+	margin-left: 15px;
 	margin-bottom: 18px;
 	float: left;
 	display: inline-block;
 	overflow: hidden;
 }
+
 
 .texto-footer{
 	text-align: center;
@@ -480,9 +493,8 @@ footer{
 	font-family: 'Lato', helvetica, arial, sans-serif;
 	font-size: 16px;
 	font-variant: 400;
-	text-align: lef;
+	text-align: center;
 
-}
 }
 
 /*--.boximg-caligrafia{
@@ -595,8 +607,8 @@ p{
 .cont-img-galeria{
 	padding:8px;
 	margin-right: 6px;
-	width: 218px;
-	height: 218px;
+	width: 235px;
+	height: 235px;
 	display: inline-block;
 	background-color: rgba(100,100,100,0.2);
 	float: left;
@@ -605,8 +617,8 @@ p{
 
 .cont-img-galeria2{
 	padding:8px;
-	width: 218px;
-	height: 218px;
+	width: 235px;
+	height: 235px;
 	display: inline-block;
 	background-color:rgba(100,100,100,0.2);
 	float: left;
